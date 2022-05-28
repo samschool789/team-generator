@@ -1,4 +1,4 @@
-# team-generator
+# TEAM-GENERATOR
  
   
   ## Description 
@@ -12,13 +12,13 @@
   * [Questions](#questions)
   
   ## Installation 
-  You want make sure you have Node.js installed and Jest to run the tests
+  You want make sure you have Node.js installed and Jest to run the tests.
   ## Usage 
   enter node index.js in your terminal then follow the instructions!
   ## License 
-  This project is license under MIT
+  This project has no license is school assignment.
   ## Contributing 
-  nothing it is a school assigment
+  nothing it is a school assigment.
   ## Tests
   npm test
   ## Questions
