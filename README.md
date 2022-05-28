@@ -1,6 +1,6 @@
 # TEAM-GENERATOR
  
- ![image](img.png)
+ ![image](./img/img.png)
   
   ## Description 
   I made an application using Node to generate a team.  Also used Jest to test to see if certain functions and objects performed correctly to help me make my final code.
